@@ -6,6 +6,6 @@ public class Main {
     }
 
     private static void system(){
-        System.out.println("冲突测试");
+        System.out.println("冲突测试1");
     }
 }
